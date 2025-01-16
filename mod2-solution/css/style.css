@@ -14,11 +14,12 @@
         margin-left:auto;
         font-family:helvetica;
         color:black;
-        position:relative;
-        top:50px;
-        left:50px;
+        
     }
     .sectionhead {
+       position:relative;
+       top:50px;
+       left:50px;
         
     }
     .row {
